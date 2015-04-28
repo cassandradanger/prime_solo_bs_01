@@ -1,0 +1,23 @@
+body{
+	padding-bottom: 10;
+}
+
+.lead{
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+}
+img{
+	padding-bottom: 10px
+}
+
+.container{
+	padding-left: auto;
+	padding-right: auto;
+}
+.container .main{
+	height: 300px;
+}
+
+.header{
+	color: white;
+}
